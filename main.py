@@ -4,9 +4,7 @@ import shutil
 import assets
 import readline
 import glob
-#nothign
-#commit sign
-#kainis na rene
+
 
 
 assets.banner()
