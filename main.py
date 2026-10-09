@@ -4,6 +4,7 @@ import shutil
 import assets
 import readline
 import glob
+
 #thisisforStreak
 #thisisforStreakonly
 
@@ -14,6 +15,7 @@ assets.option()
 while True:
     if shutil.which("hydra") is None:
         print("[!] hydra IS NOT INSTALLED. INSTALL IT DIRST TO USE THIS TOOL!")
+        print(" ")
     else:
 
         try:
